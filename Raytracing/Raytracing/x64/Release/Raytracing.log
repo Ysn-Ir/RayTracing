@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\ouali\source\repos\Raytracing\Raytracing\main.cpp(93,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ouali\source\repos\Raytracing\Raytracing\main.cpp(94,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ouali\source\repos\Raytracing\Raytracing\main.cpp(94,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  7 of 10 functions (70.0%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Raytracing.vcxproj -> C:\Users\ouali\source\repos\Raytracing\x64\Release\Raytracing.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
